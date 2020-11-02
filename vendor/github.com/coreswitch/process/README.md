@@ -1,3 +1,0 @@
-# proc
-
-Process management library.
